@@ -1,0 +1,2 @@
+ubuntu 83mb
+alpine 15.7mb

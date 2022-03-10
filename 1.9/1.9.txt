@@ -1,0 +1,2 @@
+**First I created file text.log**
+> docker run -v "C:\Tietojenkäsittelytiede\devOps_with_docker\PART 1\1.9/text.log:/usr/src/app/text.log" devopsdockeruh/simple-web-service
